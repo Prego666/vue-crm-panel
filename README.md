@@ -1,4 +1,4 @@
-# Simple Vue 2 CRM App
+# Vue 2 CRM App
 
 [Demo](https://vue-admin-panel-oio.web.app/)
 
